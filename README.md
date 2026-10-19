@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**AhmadHandoumeh/AhmadHandoumeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmad 👋
 
-Here are some ideas to get you started:
+### Aspiring Machine Learning Engineer | Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at Hashemite University interested in
+Machine Learning, Deep Learning, and building practical AI applications.
+
+- 🌱 Currently exploring Machine Learning and Deep Learning
+- 🤖 Interested in AI, NLP, and intelligent applications
+- 💻 Enjoy solving programming problems and building projects
+- 🎯 Goal: Build practical AI solutions and grow as an ML Engineer
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python, Java, C++
+
+**Machine Learning & Data Science**
+- Scikit-learn, Pandas, NumPy, Matplotlib
+- PyTorch
+
+**Web Development & Databases**
+- HTML, CSS, JavaScript
+- Django, FastAPI, SQL
+
+**Tools**
+- Git, GitHub, Jupyter Notebook
+
+### 🚀 Featured Projects
+- **House Price Prediction** — A machine learning model
+  for predicting house prices.
+- **AI Memory Companion** — A notes application with AI-powered
+  summarization and question answering.
+
+### 📫 Connect with Me
+
+- LinkedIn: [Ahmad Handoumeh](linkedin.com/in/ahandoumeh)
+- GitHub: [@AhmadHandoumeh](https://github.com/AhmadHandoumeh)
